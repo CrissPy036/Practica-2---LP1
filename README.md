@@ -1,5 +1,5 @@
 # - EJERCICIOS PRÁCTICOS - LENGUAJE DE PROGRAMACIÓN I -
-# ------------------ Clase desarrolada el 12/12/2023 ----------------
+# ------------------ Clase desarrollada el 12/12/2023 ----------------
 ## ----------------------------------------- Contenido ----------------------------------------
 ## • [Ejercicio 1](Practi02Ej1.java)
 ## • [Ejercicio 2](Practi02Ej2.java)
